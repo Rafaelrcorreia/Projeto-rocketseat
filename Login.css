@@ -40,7 +40,8 @@ body {
 }
 
 #login_mobile {
-    width: 360px;
+    width: 100%;
+    max-width: 588px;
     height: auto;
 
     margin: auto;
@@ -50,6 +51,7 @@ body {
 /* profile */
 
 #profile {
+
     text-align: center;
     padding: 24px;
 }
@@ -118,6 +120,7 @@ ul {
     flex-direction: column;
     gap: 16px;
 
+
 }
 
 ul li {
@@ -126,10 +129,12 @@ ul li {
     border-radius: 10px;
     justify-content: center;
     flex-direction: row;
-    padding: 16px 24px;
+    padding: 16px 20px;
     align-items: center;
     background-color: var(--surface-color);
     backdrop-filter: blur(4px);
+    margin: 0 50px;
+
 
 
 
