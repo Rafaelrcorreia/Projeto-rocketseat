@@ -35,8 +35,7 @@ Imagem e descrição de perfil configuráveis
 
 Clone este repositório:
 
-git clone https://github.com/Rafaelrcorreia/Projeto-rocketseat
-.git
+git clone https://github.com/Rafaelrcorreia/Projeto-rocketseat.git
 
 
 Entre na pasta do projeto:
